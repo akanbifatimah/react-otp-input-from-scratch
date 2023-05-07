@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.otp__{
+  border-radius: 5px;
+  border: 1px solid #91BAF6;
+  color:#005FEB;
+  font-size: 18px;
+  background: #E6EFFD;
+  outline: none;
+}
+.otp__:focus{
+  border-color: #005FEB;
+  border-width: 2px;
+  border-radius: 7px;
+}
